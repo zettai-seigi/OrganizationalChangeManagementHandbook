@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 7: OCM Strategy and Planning"
-nav_order: 8
+parent: "Part II: Assessment and Planning"
+nav_order: 4
+permalink: /chapters/07-strategy-planning/
 ---
 
 # Chapter 7: OCM Strategy and Planning

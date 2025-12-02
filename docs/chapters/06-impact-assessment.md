@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 6: Change Impact Assessment"
-nav_order: 7
+parent: "Part II: Assessment and Planning"
+nav_order: 3
+permalink: /chapters/06-impact-assessment/
 ---
 
 # Chapter 6: Change Impact Assessment

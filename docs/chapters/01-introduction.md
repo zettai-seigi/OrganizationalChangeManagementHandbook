@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 1: Introduction to Organizational Change Management"
-nav_order: 2
+parent: "Part I: Foundations"
+nav_order: 1
+permalink: /chapters/01-introduction/
 ---
 
 # Chapter 1: Introduction to Organizational Change Management

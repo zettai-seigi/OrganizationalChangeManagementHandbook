@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 12: Adoption Monitoring and Measurement"
-nav_order: 13
+parent: "Part IV: Adoption and Sustainability"
+nav_order: 1
+permalink: /chapters/12-adoption-monitoring/
 ---
 
 # Chapter 12: Adoption Monitoring and Measurement

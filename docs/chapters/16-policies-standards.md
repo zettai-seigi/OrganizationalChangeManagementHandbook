@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 16: Policies, Standards, and Compliance"
-nav_order: 17
+parent: "Part V: Governance and Controls"
+nav_order: 2
+permalink: /chapters/16-policies-standards/
 ---
 
 # Chapter 16: Policies, Standards, and Compliance

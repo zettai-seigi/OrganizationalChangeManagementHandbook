@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 11: Resistance Management"
-nav_order: 12
+parent: "Part III: Execution"
+nav_order: 4
+permalink: /chapters/11-resistance-management/
 ---
 
 # Chapter 11: Resistance Management

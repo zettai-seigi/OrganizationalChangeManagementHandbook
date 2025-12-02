@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 3: Strategic Framework and Critical Success Factors"
-nav_order: 4
+parent: "Part I: Foundations"
+nav_order: 3
+permalink: /chapters/03-strategic-framework/
 ---
 
 # Chapter 3: Strategic Framework and Critical Success Factors

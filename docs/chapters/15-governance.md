@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 15: Governance Framework"
-nav_order: 16
+parent: "Part V: Governance and Controls"
+nav_order: 1
+permalink: /chapters/15-governance/
 ---
 
 # Chapter 15: Governance Framework

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 18: Best Practices and Common Pitfalls"
-nav_order: 19
+parent: "Part VI: Implementation Guide"
+nav_order: 2
+permalink: /chapters/18-best-practices/
 ---
 
 # Chapter 18: Best Practices and Common Pitfalls

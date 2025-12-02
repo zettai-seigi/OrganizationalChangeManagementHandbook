@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 10: Sponsorship and Leadership Engagement"
-nav_order: 11
+parent: "Part III: Execution"
+nav_order: 3
+permalink: /chapters/10-sponsorship/
 ---
 
 # Chapter 10: Sponsorship and Leadership Engagement

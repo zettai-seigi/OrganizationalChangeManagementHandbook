@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 17: Implementation Roadmap"
-nav_order: 18
+parent: "Part VI: Implementation Guide"
+nav_order: 1
+permalink: /chapters/17-implementation-roadmap/
 ---
 
 # Chapter 17: Implementation Roadmap

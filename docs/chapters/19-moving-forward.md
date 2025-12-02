@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 19: Moving Forward with Continuous Improvement"
-nav_order: 20
+parent: "Part VI: Implementation Guide"
+nav_order: 3
+permalink: /chapters/19-moving-forward/
 ---
 
 # Chapter 19: Moving Forward with Continuous Improvement

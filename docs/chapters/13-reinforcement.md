@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 13: Reinforcement and Sustainability"
-nav_order: 14
+parent: "Part IV: Adoption and Sustainability"
+nav_order: 2
+permalink: /chapters/13-reinforcement/
 ---
 
 # Chapter 13: Reinforcement and Sustainability

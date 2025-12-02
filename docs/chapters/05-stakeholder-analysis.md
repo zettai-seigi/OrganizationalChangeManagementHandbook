@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 5: Stakeholder Analysis and Engagement"
-nav_order: 6
+parent: "Part II: Assessment and Planning"
+nav_order: 2
+permalink: /chapters/05-stakeholder-analysis/
 ---
 
 # Chapter 5: Stakeholder Analysis and Engagement

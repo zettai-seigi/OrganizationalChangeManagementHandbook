@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 14: Maturity Model and Assessment"
-nav_order: 15
+parent: "Part IV: Adoption and Sustainability"
+nav_order: 3
+permalink: /chapters/14-maturity-model/
 ---
 
 # Chapter 14: Maturity Model and Assessment

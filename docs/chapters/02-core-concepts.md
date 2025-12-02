@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 2: Core Concepts and Definitions"
-nav_order: 3
+parent: "Part I: Foundations"
+nav_order: 2
+permalink: /chapters/02-core-concepts/
 ---
 
 # Chapter 2: Core Concepts and Definitions

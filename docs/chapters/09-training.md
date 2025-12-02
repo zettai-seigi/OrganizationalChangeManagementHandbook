@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Chapter 9: Training and Capability Building"
-nav_order: 10
+parent: "Part III: Execution"
+nav_order: 2
+permalink: /chapters/09-training/
 ---
 
 # Chapter 9: Training and Capability Building
