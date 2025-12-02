@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Jekyll
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/.sass-cache/
+docs/Gemfile.lock
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+.*.sw?
+
+# Ebook generation (local only)
+*.pdf
+*.epub
+generate-ebooks.sh
+docs/metadata.yaml
+
+# Development files
+book/
+images/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace

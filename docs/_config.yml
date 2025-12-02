@@ -1,0 +1,40 @@
+title: Organizational Change Management Handbook
+description: A Comprehensive Guide to ITIL/ITSM Organizational Change Management Best Practices
+baseurl: "/OrganizationalChangeManagementHandbook"
+url: "https://zettai-seigi.github.io"
+
+theme: just-the-docs
+
+color_scheme: light
+
+search_enabled: true
+search.heading_level: 3
+search.previews: 3
+
+heading_anchors: true
+
+nav_sort: case_insensitive
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Organizational Change Management Handbook - MIT License"
+
+ga_tracking:
+ga_tracking_anonymize_ip: true
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
