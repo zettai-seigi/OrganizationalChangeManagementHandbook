@@ -300,4 +300,4 @@ Learning is continuous. Every change provides opportunities to validate what wor
 
 | Previous | Next |
 |----------|------|
-| [Chapter 17: Implementation Roadmap](17-implementation-roadmap/) | [Chapter 19: Moving Forward](19-moving-forward/) |
+| [Chapter 17: Implementation Roadmap](/chapters/17-implementation-roadmap/) | [Chapter 19: Moving Forward](/chapters/19-moving-forward/) |

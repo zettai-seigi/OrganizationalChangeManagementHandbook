@@ -179,4 +179,4 @@ As we progress through this handbook, you will learn the frameworks, tools, and 
 
 | Previous | Next |
 |----------|------|
-| [Home](../index.html) | [Chapter 2: Core Concepts and Definitions](02-core-concepts.html) |
+| [Home](/) | [Chapter 2: Core Concepts and Definitions](/chapters/02-core-concepts/) |

@@ -332,4 +332,4 @@ The investment in advancing OCM maturity pays significant dividends. Organizatio
 
 | Previous | Next |
 |----------|------|
-| [Chapter 13: Reinforcement and Sustainability](13-reinforcement/) | [Chapter 15: Governance Framework](15-governance/) |
+| [Chapter 13: Reinforcement and Sustainability](/chapters/13-reinforcement/) | [Chapter 15: Governance Framework](/chapters/15-governance/) |

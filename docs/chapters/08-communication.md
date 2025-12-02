@@ -299,4 +299,4 @@ Communication is a foundational OCM activity that supports all other change acti
 
 | Previous | Next |
 |----------|------|
-| [Chapter 7: OCM Strategy and Planning](07-strategy-planning/) | [Chapter 9: Training and Capability Building](09-training/) |
+| [Chapter 7: OCM Strategy and Planning](/chapters/07-strategy-planning/) | [Chapter 9: Training and Capability Building](/chapters/09-training/) |

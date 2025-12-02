@@ -307,4 +307,4 @@ The investment in OCM capability pays dividends on every future change initiativ
 
 | Previous | Next |
 |----------|------|
-| [Chapter 16: Policies and Standards](16-policies-standards/) | [Chapter 18: Best Practices and Pitfalls](18-best-practices/) |
+| [Chapter 16: Policies and Standards](/chapters/16-policies-standards/) | [Chapter 18: Best Practices and Pitfalls](/chapters/18-best-practices/) |

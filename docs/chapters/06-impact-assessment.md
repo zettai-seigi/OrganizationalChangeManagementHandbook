@@ -351,4 +351,4 @@ Investment in thorough impact assessment pays dividends throughout the change li
 
 | Previous | Next |
 |----------|------|
-| [Chapter 5: Stakeholder Analysis](05-stakeholder-analysis/) | [Chapter 7: OCM Strategy and Planning](07-strategy-planning/) |
+| [Chapter 5: Stakeholder Analysis](/chapters/05-stakeholder-analysis/) | [Chapter 7: OCM Strategy and Planning](/chapters/07-strategy-planning/) |

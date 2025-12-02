@@ -216,4 +216,4 @@ Effective policies balance rigor with practicality—clear enough to enable comp
 
 | Previous | Next |
 |----------|------|
-| [Chapter 15: Governance Framework](15-governance/) | [Chapter 17: Implementation Roadmap](17-implementation-roadmap/) |
+| [Chapter 15: Governance Framework](/chapters/15-governance/) | [Chapter 17: Implementation Roadmap](/chapters/17-implementation-roadmap/) |

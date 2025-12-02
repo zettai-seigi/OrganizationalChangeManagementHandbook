@@ -306,4 +306,4 @@ Effective governance balances oversight with enablement—providing enough struc
 
 | Previous | Next |
 |----------|------|
-| [Chapter 14: Maturity Model](14-maturity-model/) | [Chapter 16: Policies and Standards](16-policies-standards/) |
+| [Chapter 14: Maturity Model](/chapters/14-maturity-model/) | [Chapter 16: Policies and Standards](/chapters/16-policies-standards/) |
