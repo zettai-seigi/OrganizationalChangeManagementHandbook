@@ -390,4 +390,4 @@ Investment in thorough strategy and planning pays dividends through more effecti
 
 | Previous | Next |
 |----------|------|
-| [Chapter 6: Change Impact Assessment](/chapters/06-impact-assessment/) | [Chapter 8: Communication Planning](/chapters/08-communication/) |
+| [Chapter 6: Change Impact Assessment](/OrganizationalChangeManagementHandbook/chapters/06-impact-assessment/) | [Chapter 8: Communication Planning](/OrganizationalChangeManagementHandbook/chapters/08-communication/) |

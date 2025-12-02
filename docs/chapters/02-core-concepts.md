@@ -321,4 +321,4 @@ Understanding core OCM concepts is essential for effective change management. Th
 
 | Previous | Next |
 |----------|------|
-| [Chapter 1: Introduction](/chapters/01-introduction/) | [Chapter 3: Strategic Framework and CSFs](/chapters/03-strategic-framework/) |
+| [Chapter 1: Introduction](/OrganizationalChangeManagementHandbook/chapters/01-introduction/) | [Chapter 3: Strategic Framework and CSFs](/OrganizationalChangeManagementHandbook/chapters/03-strategic-framework/) |

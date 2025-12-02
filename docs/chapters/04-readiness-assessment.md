@@ -359,4 +359,4 @@ The next chapter explores stakeholder analysis and engagement, building on readi
 
 | Previous | Next |
 |----------|------|
-| [Chapter 3: Strategic Framework](/chapters/03-strategic-framework/) | [Chapter 5: Stakeholder Analysis](/chapters/05-stakeholder-analysis/) |
+| [Chapter 3: Strategic Framework](/OrganizationalChangeManagementHandbook/chapters/03-strategic-framework/) | [Chapter 5: Stakeholder Analysis](/OrganizationalChangeManagementHandbook/chapters/05-stakeholder-analysis/) |

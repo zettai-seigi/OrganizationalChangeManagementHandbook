@@ -294,4 +294,4 @@ The ultimate goal is not just to implement change but to make it stick. Organiza
 
 | Previous | Next |
 |----------|------|
-| [Chapter 12: Adoption Monitoring](/chapters/12-adoption-monitoring/) | [Chapter 14: Maturity Model](/chapters/14-maturity-model/) |
+| [Chapter 12: Adoption Monitoring](/OrganizationalChangeManagementHandbook/chapters/12-adoption-monitoring/) | [Chapter 14: Maturity Model](/OrganizationalChangeManagementHandbook/chapters/14-maturity-model/) |

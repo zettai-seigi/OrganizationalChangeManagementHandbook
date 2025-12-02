@@ -277,4 +277,4 @@ The investment in stakeholder management pays dividends throughout the change li
 
 | Previous | Next |
 |----------|------|
-| [Chapter 4: Change Readiness Assessment](/chapters/04-readiness-assessment/) | [Chapter 6: Change Impact Assessment](/chapters/06-impact-assessment/) |
+| [Chapter 4: Change Readiness Assessment](/OrganizationalChangeManagementHandbook/chapters/04-readiness-assessment/) | [Chapter 6: Change Impact Assessment](/OrganizationalChangeManagementHandbook/chapters/06-impact-assessment/) |

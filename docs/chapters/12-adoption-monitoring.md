@@ -411,4 +411,4 @@ The ultimate purpose of measurement is action. When metrics indicate issues, cor
 
 | Previous | Next |
 |----------|------|
-| [Chapter 11: Resistance Management](/chapters/11-resistance-management/) | [Chapter 13: Reinforcement and Sustainability](/chapters/13-reinforcement/) |
+| [Chapter 11: Resistance Management](/OrganizationalChangeManagementHandbook/chapters/11-resistance-management/) | [Chapter 13: Reinforcement and Sustainability](/OrganizationalChangeManagementHandbook/chapters/13-reinforcement/) |

@@ -361,4 +361,4 @@ The 8 Critical Success Factors provide a comprehensive framework for planning an
 
 | Previous | Next |
 |----------|------|
-| [Chapter 2: Core Concepts](/chapters/02-core-concepts/) | [Chapter 4: Change Readiness Assessment](/chapters/04-readiness-assessment/) |
+| [Chapter 2: Core Concepts](/OrganizationalChangeManagementHandbook/chapters/02-core-concepts/) | [Chapter 4: Change Readiness Assessment](/OrganizationalChangeManagementHandbook/chapters/04-readiness-assessment/) |

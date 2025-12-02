@@ -336,4 +336,4 @@ The investment in building and maintaining strong sponsorship pays dividends thr
 
 | Previous | Next |
 |----------|------|
-| [Chapter 9: Training and Capability Building](/chapters/09-training/) | [Chapter 11: Resistance Management](/chapters/11-resistance-management/) |
+| [Chapter 9: Training and Capability Building](/OrganizationalChangeManagementHandbook/chapters/09-training/) | [Chapter 11: Resistance Management](/OrganizationalChangeManagementHandbook/chapters/11-resistance-management/) |

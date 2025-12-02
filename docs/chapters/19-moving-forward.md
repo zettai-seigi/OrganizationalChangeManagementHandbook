@@ -283,4 +283,4 @@ This handbook synthesizes knowledge from decades of change management research a
 
 | Previous | Home |
 |----------|------|
-| [Chapter 18: Best Practices and Pitfalls](/chapters/18-best-practices/) | [Return to Home](/) |
+| [Chapter 18: Best Practices and Pitfalls](/OrganizationalChangeManagementHandbook/chapters/18-best-practices/) | [Return to Home](/OrganizationalChangeManagementHandbook/) |

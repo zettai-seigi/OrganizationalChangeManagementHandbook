@@ -338,4 +338,4 @@ The most effective resistance management is prevention. By involving stakeholder
 
 | Previous | Next |
 |----------|------|
-| [Chapter 10: Sponsorship and Leadership](/chapters/10-sponsorship/) | [Chapter 12: Adoption Monitoring](/chapters/12-adoption-monitoring/) |
+| [Chapter 10: Sponsorship and Leadership](/OrganizationalChangeManagementHandbook/chapters/10-sponsorship/) | [Chapter 12: Adoption Monitoring](/OrganizationalChangeManagementHandbook/chapters/12-adoption-monitoring/) |

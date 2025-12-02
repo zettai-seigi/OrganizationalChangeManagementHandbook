@@ -349,4 +349,4 @@ The investment in well-designed, well-delivered training pays dividends through 
 
 | Previous | Next |
 |----------|------|
-| [Chapter 8: Communication Planning](/chapters/08-communication/) | [Chapter 10: Sponsorship and Leadership](/chapters/10-sponsorship/) |
+| [Chapter 8: Communication Planning](/OrganizationalChangeManagementHandbook/chapters/08-communication/) | [Chapter 10: Sponsorship and Leadership](/OrganizationalChangeManagementHandbook/chapters/10-sponsorship/) |
