@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Part I: Foundations"
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /part1-foundations/
 ---
