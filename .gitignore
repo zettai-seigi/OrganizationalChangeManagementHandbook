@@ -31,7 +31,11 @@ docs/metadata.yaml
 
 # Development files
 book/
-images/
+/images/
+# Keep docs/images/ for published figures
+!docs/images/
+# But ignore the markdown spec files in docs/images/
+docs/images/*.md
 
 # IDE
 .idea/
