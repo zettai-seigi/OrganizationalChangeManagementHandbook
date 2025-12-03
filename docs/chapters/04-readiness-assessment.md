@@ -42,7 +42,7 @@ Readiness assessment should begin early in the change lifecycle, ideally during 
 
 Effective readiness assessment examines multiple dimensions, recognizing that organizational readiness is a complex, multifaceted construct. Weakness in any dimension can undermine change success, even when other dimensions are strong.
 
-![Figure 4.1: Four Dimensions of Change Readiness](../images/Figure_04_01.jpeg)
+![Figure 4.1: Four Dimensions of Change Readiness](/OrganizationalChangeManagementHandbook/images/Figure_04_01.jpeg)
 
 *Figure 4.1: Change readiness must be assessed across four dimensions: organizational (systemic factors), leadership (sponsor support), manager (middle-management capability), and individual (personal preparedness). Each dimension influences and depends on the others.*
 
@@ -63,7 +63,7 @@ Organizational culture profoundly influences change readiness. Cultures that emb
 | Trust | High trust in leadership | Skepticism about intentions |
 | Communication | Open, transparent dialogue | Information hoarding |
 
-![Figure 4.5: Cultural Factors Affecting Change Readiness](../images/Figure_04_05.jpeg)
+![Figure 4.5: Cultural Factors Affecting Change Readiness](/OrganizationalChangeManagementHandbook/images/Figure_04_05.jpeg)
 
 *Figure 4.5: Cultural factors significantly influence change readiness. Assess your organization on six dimensions from change orientation to communication openness. Organizations scoring high (green zone) on most factors demonstrate greater change capacity than those scoring low (yellow zone).*
 
@@ -174,7 +174,7 @@ To assess saturation risk, inventory all concurrent changes affecting the same s
 | New Performance System | All employees | Medium | Q3 | Active |
 | Process Automation | Operations | High | Q2-Q3 | Active |
 
-![Figure 4.3: Change Saturation Analysis Dashboard](../images/Figure_04_03.jpeg)
+![Figure 4.3: Change Saturation Analysis Dashboard](/OrganizationalChangeManagementHandbook/images/Figure_04_03.jpeg)
 
 *Figure 4.3: Change saturation analysis tracks concurrent change initiatives, their overlap, and cumulative impact on organizational capacity. When load exceeds 100% capacity (red zone), saturation risk requires intervention through deferral, sequencing, integration, or increased resources.*
 
@@ -286,7 +286,7 @@ Readiness is dynamic and requires ongoing monitoring:
 - Adjust interventions based on progress
 - Escalate persistent gaps that threaten success
 
-![Figure 4.4: The Six-Step Readiness Assessment Process](../images/Figure_04_04.jpeg)
+![Figure 4.4: The Six-Step Readiness Assessment Process](/OrganizationalChangeManagementHandbook/images/Figure_04_04.jpeg)
 
 *Figure 4.4: The readiness assessment process follows six steps: define scope, select methods, gather data, analyze results, develop action plans, and monitor/reassess. The process is iterative, with ongoing monitoring informing continuous assessment and adjustment.*
 

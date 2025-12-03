@@ -56,7 +56,7 @@ People resist change for many reasons, often related to gaps in the ADKAR model:
 - Aren't recognized for adoption efforts
 - See old behaviors still accepted or rewarded
 
-![Figure 11.1: Understanding Resistance Root Causes](../images/Figure_11_01.jpeg)
+![Figure 11.1: Understanding Resistance Root Causes](/OrganizationalChangeManagementHandbook/images/Figure_11_01.jpeg)
 
 *Figure 11.1: Resistance stems from six primary sources: Fear of the Unknown (Awareness gap), Loss of Control (Desire gap), Past Experiences (Desire gap), Lack of Trust (Desire gap), Competence Concerns (Knowledge/Ability gaps), and Change Saturation (capacity issue). Each cause requires different interventions aligned with the ADKAR element affected.*
 
@@ -71,7 +71,7 @@ Resistance manifests in various forms:
 | **Covert** | Undermining, gossip, negative influence on others | Damaging to morale and adoption |
 | **Institutional** | Policies, processes that block change | Structural barriers |
 
-![Figure 11.3: Resistance Type Spectrum and Response Strategies](../images/Figure_11_03.jpeg)
+![Figure 11.3: Resistance Type Spectrum and Response Strategies](/OrganizationalChangeManagementHandbook/images/Figure_11_03.jpeg)
 
 *Figure 11.3: Resistance manifests in four forms with increasing difficulty: Vocal/Active (visible opposition, manageable through dialogue), Passive (subtle non-compliance, requires monitoring and accountability), Covert (hidden undermining, dangerous and requiring direct engagement), and Institutional (structural barriers, requiring systemic change). Match response strategies to resistance type for effectiveness.*
 
@@ -135,7 +135,7 @@ For each resisting individual or group, assess which ADKAR element is the barrie
 | **Ability** | Can they perform new behaviors? What barriers exist? | "I can't"; time/resource constraints |
 | **Reinforcement** | Are new behaviors being reinforced? | Regression to old behaviors; "Why bother?" |
 
-![Figure 11.2: ADKAR-Based Resistance Diagnostic Flowchart](../images/Figure_11_02.jpeg)
+![Figure 11.2: ADKAR-Based Resistance Diagnostic Flowchart](/OrganizationalChangeManagementHandbook/images/Figure_11_02.jpeg)
 
 *Figure 11.2: Use the ADKAR diagnostic flowchart to identify resistance root causes. Start with Awareness: "Do they understand why change is needed?" If No, intervention = enhanced communication. If Yes, move to Desire: "Do they want to change?" Continue through Knowledge, Ability, and Reinforcement. Each No response indicates the specific gap requiring intervention.*
 
@@ -240,7 +240,7 @@ For persistent resistance, escalate approaches:
 4. HR involvement if necessary
 5. Performance management consequences
 
-![Figure 11.4: Engagement vs. Accountability Escalation Path](../images/Figure_11_04.jpeg)
+![Figure 11.4: Engagement vs. Accountability Escalation Path](/OrganizationalChangeManagementHandbook/images/Figure_11_04.jpeg)
 
 *Figure 11.4: Address persistent resistance through progressive escalation: (1) Manager conversation and coaching, (2) OCM practitioner engagement, (3) Sponsor discussion, (4) HR involvement, (5) Performance management consequences. At each level, assess if resistance has decreased. If yes, monitor and support. If no, escalate. Document at every stage. Before escalating, ensure interventions were attempted, expectations are clear, and barriers were removed.*
 
@@ -326,7 +326,7 @@ Maintain a log of resistance issues:
 | R-002 | Finance team slow adoption | Finance Dept | Knowledge | Additional training | Training Lead | Resolved |
 | R-003 | IT passive resistance | Support team | Ability | Process simplification | Project Lead | Planned |
 
-![Figure 11.5: Resistance Tracking Dashboard](../images/Figure_11_05.jpeg)
+![Figure 11.5: Resistance Tracking Dashboard](/OrganizationalChangeManagementHandbook/images/Figure_11_05.jpeg)
 
 *Figure 11.5: The Resistance Management Dashboard tracks key metrics (current resistance level with target <10%, average resolution time with target <2 weeks, trend direction, escalation rate) and provides detailed issue tracking. The resistance log shows individual resistance cases with root causes, interventions, owners, and status. Trend analysis reveals patterns and informs prevention strategies.*
 

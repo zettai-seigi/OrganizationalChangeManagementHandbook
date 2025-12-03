@@ -45,7 +45,7 @@ Effective sponsors fulfill several critical functions:
 
 **Recognize**: Celebrate progress and acknowledge successful adoption
 
-![Figure 10.2: Strong vs Weak Sponsorship Comparison](../images/Figure_10_02.jpeg)
+![Figure 10.2: Strong vs Weak Sponsorship Comparison](/OrganizationalChangeManagementHandbook/images/Figure_10_02.jpeg)
 
 *Figure 10.2: Use this comparison to assess sponsor effectiveness across five dimensions. Strong sponsorship shows active participation in events, high visibility, protected resources, rapid barrier removal, and consistent messaging. Weak sponsorship shows delegation, absence, resource cuts, unresolved issues, and mixed messages. Score 5/5 = Excellent, 3-4/5 = Adequate, 0-2/5 = Insufficient requiring intervention.*
 
@@ -90,7 +90,7 @@ Primary Sponsor (Executive Level)
                 └── Team Leads
 ```
 
-![Figure 10.1: Sponsorship Roles and Responsibilities Matrix](../images/Figure_10_01.jpeg)
+![Figure 10.1: Sponsorship Roles and Responsibilities Matrix](/OrganizationalChangeManagementHandbook/images/Figure_10_01.jpeg)
 
 *Figure 10.1: An effective sponsorship coalition operates at three levels: Primary Sponsor (owns the change, allocates resources, removes barriers), Sponsoring Coalition (translates messages locally, supports managers, escalates issues), and Middle Managers (communicate with teams, coach individuals, reinforce adoption). Typical ratio: 1 primary sponsor : 5 coalition members : 25 managers : 100+ employees.*
 
@@ -204,7 +204,7 @@ Instead of "Please support this change," seek specific commitments:
 | Integrate into performance expectations | Make adoption "how we work" |
 | Transition to business-as-usual | Ensure ongoing ownership |
 
-![Figure 10.3: Sponsor Activity Timeline by Phase](../images/Figure_10_03.jpeg)
+![Figure 10.3: Sponsor Activity Timeline by Phase](/OrganizationalChangeManagementHandbook/images/Figure_10_03.jpeg)
 
 *Figure 10.3: Sponsor activities vary by project phase. Initiation requires vision articulation and resource authorization. Planning needs strategy approval and manager preparation. Execution demands visible presence, communication delivery, and barrier removal. Sustainment focuses on recognition, accountability, and business-as-usual transition. Time commitment is typically highest during Execution phase.*
 
@@ -283,7 +283,7 @@ Track whether sponsorship is having intended impact:
 | Resistance levels | % active resistance (should decrease with good sponsorship) |
 | Adoption rates | Correlation between sponsor activity and adoption |
 
-![Figure 10.4: Sponsor Engagement Tracking Dashboard](../images/Figure_10_04.jpeg)
+![Figure 10.4: Sponsor Engagement Tracking Dashboard](/OrganizationalChangeManagementHandbook/images/Figure_10_04.jpeg)
 
 *Figure 10.4: Sponsor effectiveness is measured through activity metrics (planned activities completed, communications delivered, event participation, decision speed, barriers resolved) and impact metrics (stakeholder perception of leadership support, manager readiness, resistance levels, adoption rates). Track both to ensure sponsors are both active and effective. Overall engagement score combines all metrics.*
 

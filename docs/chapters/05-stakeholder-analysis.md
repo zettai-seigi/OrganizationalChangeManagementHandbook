@@ -43,7 +43,7 @@ The first step in stakeholder management is comprehensive identification. Missin
 | **Enablers** | Those who provide support and resources | IT, HR, Training, Legal, Finance, Communications |
 | **Interested** | Those with a stake in outcomes but not directly impacted | Shareholders, partners, regulators, community |
 
-![Figure 5.1: Stakeholder Identification - Five Categories](../images/Figure_05_01.jpeg)
+![Figure 5.1: Stakeholder Identification - Five Categories](/OrganizationalChangeManagementHandbook/images/Figure_05_01.jpeg)
 
 *Figure 5.1: Comprehensive stakeholder identification covers five categories: Sponsors (authorizers and champions), Impacted (those whose work changes), Influencers (opinion shapers), Enablers (support providers), and Interested parties (those with stake in outcomes). Cast a wide net initially across all categories.*
 
@@ -80,7 +80,7 @@ Once stakeholders are identified, analyze them to understand their position and 
 
 The Power/Interest Grid is a foundational tool for stakeholder prioritization. It plots stakeholders on two dimensions: their power (ability to influence change outcomes) and their interest (degree to which they care about the change).
 
-![Figure 5.2: Stakeholder Power/Interest Grid with Engagement Strategies](../images/FIgure_05_02.jpeg)
+![Figure 5.2: Stakeholder Power/Interest Grid with Engagement Strategies](/OrganizationalChangeManagementHandbook/images/FIgure_05_02.jpeg)
 
 *Figure 5.2: Plot stakeholders on the Power/Interest Grid to determine engagement priority. Those in "Manage Closely" (high power, high interest) require intensive engagement. Circle size indicates relative impact; color shows current attitude (green=supportive, gray=neutral, yellow=resistant).*
 
@@ -103,7 +103,7 @@ Go deeper than power/interest to understand stakeholder positions:
 | End Users | High - Daily workflow | Low - Must adopt | Unaware | Proficient | Large | High |
 | Operations Mgr | High - Team disruption | High - Can block | Skeptical | Advocate | Large | Critical |
 
-![Figure 5.3: Comprehensive Stakeholder Assessment Matrix](../images/Figure_05_03.jpeg)
+![Figure 5.3: Comprehensive Stakeholder Assessment Matrix](/OrganizationalChangeManagementHandbook/images/Figure_05_03.jpeg)
 
 *Figure 5.3: The Stakeholder Assessment Matrix provides comprehensive analysis of key stakeholders, tracking their impact, influence, current attitude, desired state, gap to close, and engagement priority. Use this to plan targeted engagement strategies for each stakeholder or group.*
 
@@ -137,7 +137,7 @@ Different stakeholders require different engagement approaches. The engagement s
 | **Collaborate** | Partnership in decisions | Co-design, shared governance | High impact, high influence |
 | **Empower** | Delegate decision authority | Delegated ownership, autonomy | Build capability, trusted stakeholders |
 
-![Figure 5.4: The Stakeholder Engagement Spectrum - Five Levels](../images/Figure_05_04.jpeg)
+![Figure 5.4: The Stakeholder Engagement Spectrum - Five Levels](/OrganizationalChangeManagementHandbook/images/Figure_05_04.jpeg)
 
 *Figure 5.4: The Engagement Spectrum shows five levels of stakeholder involvement from one-way information (Inform) to delegated decision-making (Empower). Higher levels require greater time and resource investment but yield increased stakeholder influence, ownership, and commitment.*
 
@@ -203,7 +203,7 @@ Look for stakeholders who:
 
 **Visible Support**: Coalition members demonstrate visible support through their actions, signaling to others that adoption is expected and valued.
 
-![Figure 5.5: Building a Stakeholder Coalition - Network of Influence](../images/Figure_05_05.jpeg)
+![Figure 5.5: Building a Stakeholder Coalition - Network of Influence](/OrganizationalChangeManagementHandbook/images/Figure_05_05.jpeg)
 
 *Figure 5.5: A stakeholder coalition extends project team influence through a network of supporters who can reach and influence their peers. Coalition members serve as advocates, bridges, and experts, multiplying the reach and effectiveness of change messaging.*
 

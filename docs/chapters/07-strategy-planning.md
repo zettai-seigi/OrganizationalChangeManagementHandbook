@@ -88,7 +88,7 @@ Based on assessment findings and objectives, determine the overall OCM approach:
 | Organizational readiness | High | Medium | Low |
 | Timeline pressure | Relaxed | Normal | Compressed |
 
-![Figure 7.2: Determining OCM Approach Intensity - Assessment Scorecard](../images/Figure_07_02.jpeg)
+![Figure 7.2: Determining OCM Approach Intensity - Assessment Scorecard](/OrganizationalChangeManagementHandbook/images/Figure_07_02.jpeg)
 
 *Figure 7.2: Use this scorecard to determine appropriate OCM approach intensity. Assess each factor (impact severity, stakeholder complexity, history, readiness, timeline) and select the matching intensity level. Most scores in one column indicates recommended approach and corresponding resource investment.*
 
@@ -133,7 +133,7 @@ Structure OCM activities into coordinated workstreams:
 - Escalation processes
 - Resolution tracking
 
-![Figure 7.3: OCM Workstreams - Five Integrated Components](../images/Figure_07_03.jpeg)
+![Figure 7.3: OCM Workstreams - Five Integrated Components](/OrganizationalChangeManagementHandbook/images/Figure_07_03.jpeg)
 
 *Figure 7.3: Five OCM workstreams operate in concert throughout the change lifecycle: Communication builds awareness, Training builds capability, Sponsorship provides leadership support, Change Networks extend reach, and Resistance Management addresses barriers. Coordination is managed centrally to ensure integration.*
 
@@ -150,7 +150,7 @@ OCM activities must align with project milestones. Map OCM activities to the pro
 | Deploy | Go-live, cutover | Intensive communication, training delivery, support |
 | Stabilize | Hypercare, optimization | Reinforcement, adoption monitoring, sustainment |
 
-![Figure 7.1: Developing Your OCM Strategy - Five-Step Process](../images/Figure_07_01.jpeg)
+![Figure 7.1: Developing Your OCM Strategy - Five-Step Process](/OrganizationalChangeManagementHandbook/images/Figure_07_01.jpeg)
 
 *Figure 7.1: OCM strategy development follows five steps: synthesize assessments, define objectives, determine approach intensity, design workstreams, and integrate with the project plan. The process typically takes 4-6 weeks and produces comprehensive OCM strategy and detailed plans.*
 
@@ -226,7 +226,7 @@ The sponsorship plan defines how sponsors will be engaged and activated:
 | Department visits | Weekly during rollout | Visible presence, Q&A | Scheduling, FAQ prep |
 | Manager meetings | As needed | Remove barriers, reinforce | Issue escalation |
 
-![Figure 7.4: Aligning OCM Activities with Project Milestones](../images/Figure_07_04.jpeg)
+![Figure 7.4: Aligning OCM Activities with Project Milestones](/OrganizationalChangeManagementHandbook/images/Figure_07_04.jpeg)
 
 *Figure 7.4: Effective OCM integration aligns activities with project phases and milestones. OCM assessment begins during Initiation, planning during Planning, intensive activities during Deploy, and sustainment during Stabilize phase. Dependencies ensure OCM activities are sequenced appropriately.*
 
@@ -379,7 +379,7 @@ Establish clear metrics for OCM success:
 | Sponsor engagement | 4.5/5 | Activity tracking | Monthly |
 | Sustainment rate | >90% | Usage at 6 months | Monthly post-go-live |
 
-![Figure 7.5: Measuring OCM Success - Key Performance Indicators](../images/Figure_07_05.jpeg)
+![Figure 7.5: Measuring OCM Success - Key Performance Indicators](/OrganizationalChangeManagementHandbook/images/Figure_07_05.jpeg)
 
 *Figure 7.5: OCM success is measured through leading indicators (communication reach, training completion, sponsor engagement, sentiment, resistance) that predict outcomes, and lagging indicators (adoption rates, proficiency, benefits realization, sustainment) that measure results. Track all metrics regularly and take corrective action when indicators show at-risk or off-track status.*
 

@@ -47,7 +47,7 @@ Change communication faces unique challenges that distinguish it from routine or
 
 Effective change communication applies the framework of the "5 Rights" to ensure messages reach their intended audiences with maximum impact.
 
-![Figure 8.1: The 5 Rights of Effective Change Communication](../images/Figure_08_01.jpeg)
+![Figure 8.1: The 5 Rights of Effective Change Communication](/OrganizationalChangeManagementHandbook/images/Figure_08_01.jpeg)
 
 *Figure 8.1: The 5 Rights of Effective Change Communication provides a comprehensive framework: deliver the Right Message (clear, consistent, honest) to the Right Audience (segmented and targeted) at the Right Time (proactive and appropriate) through the Right Channel (multi-channel mix) from the Right Sender (credible source). All five must align for communication success.*
 
@@ -77,7 +77,7 @@ Communication must be targeted to specific stakeholder groups with tailored mess
 | IT Support | Technical details, support expectations, escalation paths | "What do I need to know to help users?" |
 | Customers/Partners | Service impacts, timing, what to expect | "How will this affect my experience?" |
 
-![Figure 8.2: Communication Audience Segmentation Matrix](../images/Figure_08_02.jpeg)
+![Figure 8.2: Communication Audience Segmentation Matrix](/OrganizationalChangeManagementHandbook/images/Figure_08_02.jpeg)
 
 *Figure 8.2: Effective audience segmentation recognizes that different stakeholder groups have different information needs, questions, channel preferences, and communication expectations. Tailor messages, timing, tone, and senders to match each audience segment's specific requirements.*
 
@@ -107,7 +107,7 @@ Different channels serve different purposes and reach different audiences:
 | Digital Signage | High visibility, passive reach | Awareness, countdown, reminders | Limited content, no targeting |
 | 1:1 Conversations | Personalized, addresses concerns | Sensitive topics, individual issues | Not scalable |
 
-![Figure 8.3: Communication Channel Strategy Map](../images/Figure_08_03.jpeg)
+![Figure 8.3: Communication Channel Strategy Map](/OrganizationalChangeManagementHandbook/images/Figure_08_03.jpeg)
 
 *Figure 8.3: Each communication channel has distinct strengths, limitations, and best uses. Town halls provide broad reach and executive visibility but are one-way. Team meetings enable two-way dialogue but require consistent delivery. Email documents information but is easily ignored. Use a multi-channel strategy to reinforce messages and reach different preferences.*
 
@@ -160,7 +160,7 @@ A communication plan operationalizes the strategy into specific communications:
 | Week 3 | End users | What's changing | Department meetings | Managers | Managers | Planned |
 | Ongoing | All | FAQ updates | Intranet | Support team | Support Lead | Recurring |
 
-![Figure 8.5: Communication Plan Calendar Gantt](../images/Figure_08_05.jpeg)
+![Figure 8.5: Communication Plan Calendar Gantt](/OrganizationalChangeManagementHandbook/images/Figure_08_05.jpeg)
 
 *Figure 8.5: A communication plan calendar maps all communication activities across time, showing sequencing, coordination, and frequency. Color coding by audience, icons for channels and senders, and milestone markers ensure comprehensive planning. This example shows a 12-week launch communication campaign.*
 
@@ -209,7 +209,7 @@ Effective change communication is not one-way broadcasting but two-way dialogue.
 
 **Change Agent Network**: Leverage change agents to gather ground-level feedback and identify emerging issues.
 
-![Figure 8.4: Two-Way Communication Feedback Loop](../images/Figure_08_04.jpeg)
+![Figure 8.4: Two-Way Communication Feedback Loop](/OrganizationalChangeManagementHandbook/images/Figure_08_04.jpeg)
 
 *Figure 8.4: Effective two-way communication creates a continuous feedback loop: communicate messages, establish feedback channels, systematically gather input, triage and analyze feedback, respond with actions, and close the loop by communicating how feedback was addressed. This builds engagement, surfaces concerns early, and improves implementation.*
 
@@ -284,7 +284,7 @@ Communication often drops off after initial announcements, just when reinforceme
 | Feedback Volume | Quantity of questions/feedback received | Trending up then stable | Feedback tracking |
 | Message Retention | % who can recall key messages | >70% | Random sampling, focus groups |
 
-![Figure 8.6: Communication Effectiveness Metrics Dashboard](../images/Figure_08_06.jpeg)
+![Figure 8.6: Communication Effectiveness Metrics Dashboard](/OrganizationalChangeManagementHandbook/images/Figure_08_06.jpeg)
 
 *Figure 8.6: Communication effectiveness is measured across six dimensions: Reach (% who received messages), Open/View Rate (engagement), Comprehension (understanding), Satisfaction (quality rating), Feedback Volume (engagement indicator), and Message Retention (recall). Track trends over time and take corrective action when metrics show at-risk or off-track performance.*
 

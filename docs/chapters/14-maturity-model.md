@@ -39,7 +39,7 @@ Maturity assessment serves several purposes:
 
 ## The Five Maturity Levels
 
-![Figure 14.1: OCM Maturity Model - Five Levels](../images/Figure_14_01.jpeg)
+![Figure 14.1: OCM Maturity Model - Five Levels](/OrganizationalChangeManagementHandbook/images/Figure_14_01.jpeg)
 
 *Figure 14.1: OCM Maturity Model - Five Levels - Organizations progress from ad-hoc (Level 1) where OCM is not recognized, to optimized (Level 5) where change capability is a strategic differentiator. Advancement typically takes 6-10 years.*
 
@@ -159,7 +159,7 @@ At the Optimized level, OCM capability is a strategic differentiator. The organi
 
 ### Assessment Dimensions
 
-![Figure 14.2: OCM Maturity Assessment Dimensions](../images/Figure_14_02.jpeg)
+![Figure 14.2: OCM Maturity Assessment Dimensions](/OrganizationalChangeManagementHandbook/images/Figure_14_02.jpeg)
 
 *Figure 14.2: OCM Maturity Assessment Dimensions - Assess maturity across seven dimensions to identify specific strengths and improvement opportunities. Gap analysis shows where to focus development efforts.*
 
@@ -295,7 +295,7 @@ Average scores across dimensions, then map to maturity level:
 
 ## Maturity Roadmap
 
-![Figure 14.3: Maturity Advancement Roadmap](../images/Figure_14_03.jpeg)
+![Figure 14.3: Maturity Advancement Roadmap](/OrganizationalChangeManagementHandbook/images/Figure_14_03.jpeg)
 
 *Figure 14.3: Maturity Advancement Roadmap - Advancing OCM maturity is a multi-year journey with distinct phases, parallel workstreams, and decision gates. Typical progression spans 6-10 years to reach optimized capability.*
 

@@ -66,7 +66,7 @@ It's important to distinguish between Organizational Change Management and ITIL'
 
 **Key Insight**: Both disciplines are essential. Technical change management ensures systems work correctly; organizational change management ensures people use them effectively.
 
-![Figure 1.1: OCM vs Technical Change Management](../images/Figure_01_01.jpeg)
+![Figure 1.1: OCM vs Technical Change Management](/OrganizationalChangeManagementHandbook/images/Figure_01_01.jpeg)
 
 *Figure 1.1: Technical Change Management focuses on systems and infrastructure, while Organizational Change Management focuses on people and adoption. Both are essential and complementary disciplines.*
 
@@ -101,7 +101,7 @@ Understanding how individuals and organizations move through change is fundament
 - Key question: "Is this now how we work?"
 - OCM Focus: Reinforcement, recognition, metrics
 
-![Figure 1.2: The Change Adoption Lifecycle](../images/Figure_01_02.jpeg)
+![Figure 1.2: The Change Adoption Lifecycle](/OrganizationalChangeManagementHandbook/images/Figure_01_02.jpeg)
 
 *Figure 1.2: The Change Adoption Lifecycle shows how individuals progress through five stages from initial awareness to sustained adoption. Each stage requires different OCM interventions and support.*
 
@@ -121,7 +121,7 @@ Investing in OCM delivers measurable business value:
 | Lower support costs | 25-35% fewer help desk tickets |
 | Better ROI realization | 3-5x improvement in benefit capture |
 
-![Figure 1.3: The Business Case for OCM Impact Comparison](../images/Figure_01_03.jpeg)
+![Figure 1.3: The Business Case for OCM Impact Comparison](/OrganizationalChangeManagementHandbook/images/Figure_01_03.jpeg)
 
 *Figure 1.3: Organizations that invest in OCM achieve measurably better outcomes across all key performance dimensions, with 30-50% faster time to proficiency and 85%+ adoption rates compared to 50% without OCM.*
 
@@ -158,7 +158,7 @@ ITIL 4 recognizes Organizational Change Management as a distinct practice within
 - **Keep it simple and practical**: Fit-for-purpose approaches
 - **Optimize and automate**: Continuous improvement
 
-![Figure 1.4: OCM in the ITIL 4 Framework](../images/Figure_01_04.jpeg)
+![Figure 1.4: OCM in the ITIL 4 Framework](/OrganizationalChangeManagementHandbook/images/Figure_01_04.jpeg)
 
 *Figure 1.4: OCM is positioned as a critical practice within the ITIL 4 Service Value System, supporting all seven guiding principles and contributing to value creation across the service lifecycle.*
 
