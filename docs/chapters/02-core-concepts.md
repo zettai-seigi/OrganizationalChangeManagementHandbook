@@ -48,6 +48,10 @@ An **Organizational Change** is any transformation that significantly affects ho
 
 The **ADKAR Model** (Prosci) is the foundational framework for understanding individual change. Each letter represents a building block that must be achieved in sequence:
 
+![Figure 2.1: The ADKAR Model Pyramid](../images/Figure_02_01.jpeg)
+
+*Figure 2.1: The ADKAR Model shows five sequential building blocks for individual change. Each element must be achieved before moving to the next, with Awareness and Desire as the foundation, and Reinforcement ensuring sustainability.*
+
 ### A - Awareness
 
 **Definition**: Understanding why change is needed and the risk of not changing.
@@ -123,6 +127,10 @@ The **ADKAR Model** (Prosci) is the foundational framework for understanding ind
 - Celebrating successes
 - Corrective actions
 
+![Figure 2.2: ADKAR Diagnostic Framework](../images/Figure_02_02.jpeg)
+
+*Figure 2.2: Use this ADKAR diagnostic framework to identify where individuals or groups are experiencing barriers to adoption. Each "No" response indicates a gap requiring specific interventions.*
+
 ---
 
 ## Stakeholder Categories
@@ -162,6 +170,10 @@ Experience operational impact from the change.
 | End Users | Very High | Medium | Training & support |
 | IT Support | High | Medium | Technical enablement |
 | Customers | Medium | Low | Communication |
+
+![Figure 2.3: Stakeholder Power/Interest Matrix](../images/Figure_02_03.jpeg)
+
+*Figure 2.3: The Power/Interest Grid helps prioritize stakeholder engagement efforts. Those in the "Manage Closely" quadrant require the most intensive engagement, while those in "Monitor" require lighter touch.*
 
 ---
 
@@ -251,6 +263,10 @@ Experience operational impact from the change.
    - Insufficient time to adapt
    - Competing priorities
 
+![Figure 2.4: Change Resistance Spectrum](../images/Figure_02_04.jpeg)
+
+*Figure 2.4: Resistance manifests in three primary forms—active (vocal and visible), passive (subtle non-compliance), and covert (hidden undermining). Understanding the type helps determine appropriate intervention strategies.*
+
 ### Resistance as Feedback
 
 **Important**: Resistance is not inherently negative. It often provides valuable information:
@@ -285,19 +301,9 @@ A **Change Champion** is a senior advocate who actively promotes and sponsors th
 
 ### Change Agent Network Structure
 
-```
-Executive Sponsor
-       │
-       ├── Senior Change Champions (Division Level)
-       │         │
-       │         ├── Change Agents (Department Level)
-       │         │         │
-       │         │         └── Peer Supporters (Team Level)
-       │         │
-       │         └── Change Agents
-       │
-       └── Senior Change Champions
-```
+![Figure 2.5: Change Agent Network Structure](../images/Figure_02_05.jpeg)
+
+*Figure 2.5: An effective Change Agent Network extends from executive sponsors through champions and agents to peer supporters, creating a distributed support structure that reaches all impacted employees. Typical ratio: 1 sponsor : 5 champions : 25 agents : 100+ employees.*
 
 ---
 

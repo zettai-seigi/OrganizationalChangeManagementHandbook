@@ -49,6 +49,10 @@ Organizations that skip or shortcut impact assessment encounter predictable prob
 
 Effective impact assessment examines multiple dimensions of change. Most changes affect several dimensions simultaneously, and understanding the full scope of impact is essential for comprehensive OCM planning.
 
+![Figure 6.1: The Five Dimensions of Change Impact](../images/Figure_06_01.jpeg)
+
+*Figure 6.1: Change impact must be assessed across five dimensions: Process (workflow changes), Role (responsibility shifts), Skill (new capabilities needed), Technology (system changes), and Cultural (value and behavior shifts). The radar chart shows impact severity for different stakeholder groups, enabling targeted OCM responses.*
+
 ### Process Impact
 
 Process impacts occur when workflows, procedures, or ways of working change. These are often the most visible impacts and typically the focus of technical change management.
@@ -208,6 +212,10 @@ Not all impacts are equal. Assess severity to prioritize OCM response:
 - Criticality of successful adoption
 - Risk of errors or failures
 
+![Figure 6.4: Impact Severity Assessment - Prioritizing OCM Response](../images/FIgure_06_04.jpeg)
+
+*Figure 6.4: The Impact Severity Matrix plots impacts based on complexity and frequency to determine OCM response intensity. Critical impacts (complex and frequent) require intensive support including comprehensive training, dedicated coaching, and extended hypercare. Low impacts (simple and rare) need only light support.*
+
 ### Step 7: Develop Mitigation Strategies
 
 For each significant impact, identify mitigation strategies:
@@ -217,6 +225,10 @@ For each significant impact, identify mitigation strategies:
 | Complex new system interface | Role-based training with hands-on practice; super-users in each department |
 | Loss of manual control | Clear escalation paths; manager override capability; gradual automation rollout |
 | New cross-functional collaboration | Team-building activities; shared goals and metrics; collaboration tools training |
+
+![Figure 6.2: The Seven-Step Impact Assessment Process](../images/Figure_06_02.jpeg)
+
+*Figure 6.2: The impact assessment process follows seven steps from gathering change information through developing mitigation strategies. The process involves collaboration between OCM leads, project teams, and stakeholders, with feedback loops enabling iterative refinement.*
 
 ---
 
@@ -261,6 +273,10 @@ Call out the significant differences:
 - Automated data transfer vs. manual entry
 - Real-time reporting vs. daily email
 - Dashboard prioritization vs. manual review
+
+![Figure 6.3: Day in the Life Analysis - Before and After Change](../images/Figure_06_03.jpeg)
+
+*Figure 6.3: Day in the Life analysis shows how a typical workday changes for specific roles. This example for a Customer Service Representative highlights the shift from multiple systems to a unified portal, automated data transfer replacing manual entry, and real-time dashboards replacing email reports.*
 
 ### Using DITL Analysis
 
@@ -323,6 +339,10 @@ Maintain an impact register for ongoing tracking:
 | I-001 | New order entry interface | CSRs | Technology | High | Role-based training | Training Lead | Planned |
 | I-002 | Automated approval under $500 | Managers | Process | Low | Communication | OCM Lead | Complete |
 | I-003 | Real-time performance visibility | All staff | Cultural | Medium | Change messaging | Sponsor | In Progress |
+
+![Figure 6.5: Impact Register - Tracking and Managing Change Impacts](../images/Figure_06_05.jpeg)
+
+*Figure 6.5: The Impact Register tracks all identified impacts, their mitigation strategies, owners, and status. Use this living document to manage impacts throughout the change lifecycle. Summary metrics show distribution by severity and current status for quick oversight.*
 
 ---
 

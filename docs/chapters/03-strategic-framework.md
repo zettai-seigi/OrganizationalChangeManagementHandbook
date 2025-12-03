@@ -25,31 +25,9 @@ The OCM Strategic Framework provides a structured approach to managing the peopl
 
 ### Framework Components
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    OCM STRATEGIC FRAMEWORK                       │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│   FOUNDATION                          EXECUTION                  │
-│   ┌─────────────────┐                ┌─────────────────┐        │
-│   │ CSF 1: Executive │                │ CSF 4: Effective │        │
-│   │    Sponsorship   │                │   Communication  │        │
-│   ├─────────────────┤                ├─────────────────┤        │
-│   │ CSF 2: Clear     │                │ CSF 5: Training  │        │
-│   │ Vision & Case    │                │ & Capability     │        │
-│   └─────────────────┘                └─────────────────┘        │
-│                                                                  │
-│   PEOPLE                              SUSTAINABILITY             │
-│   ┌─────────────────┐                ┌─────────────────┐        │
-│   │ CSF 3: Stakeholder│               │ CSF 7: Resistance│        │
-│   │   Engagement     │                │   Management     │        │
-│   ├─────────────────┤                ├─────────────────┤        │
-│   │ CSF 6: Change    │                │ CSF 8: Measure & │        │
-│   │ Agent Network    │                │   Reinforce      │        │
-│   └─────────────────┘                └─────────────────┘        │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+![Figure 3.1: OCM Strategic Framework Overview](../images/Figure_03_01.jpeg)
+
+*Figure 3.1: The OCM Strategic Framework organizes eight Critical Success Factors into four categories: Foundation (sponsorship and vision), People (engagement and change agents), Execution (communication and training), and Sustainability (resistance management and measurement).*
 
 ---
 
@@ -74,6 +52,10 @@ The OCM Strategic Framework provides a structured approach to managing the peopl
 | Resources allocated and protected | Resources diverted or cut |
 | Barriers actively removed | Issues escalated but unresolved |
 | Consistent messaging | Mixed or contradictory messages |
+
+![Figure 3.2: CSF 1 - Strong vs Weak Sponsorship Indicators](../images/Figure_03_02.jpeg)
+
+*Figure 3.2: Use this assessment to evaluate sponsor effectiveness. Strong sponsorship shows active participation, visible presence, protected resources, rapid barrier removal, and consistent messaging. Count checkmarks in the left column for a quick effectiveness score.*
 
 **Success Metrics**:
 - Sponsor engagement score (participation in planned activities)
@@ -102,6 +84,10 @@ The OCM Strategic Framework provides a structured approach to managing the peopl
 | Benefits | Value to be realized | "50% faster resolution, 30% cost reduction" |
 | Journey | How we'll get there | "Phased implementation over 12 months" |
 
+![Figure 3.3: CSF 2 - Vision and Case for Change Components](../images/Figure_03_03.jpeg)
+
+*Figure 3.3: A compelling case for change articulates five essential components: the current state reality, why change is necessary, the future state vision, the benefits to be realized, and the journey to get there. Together these create a complete narrative that builds both awareness and desire.*
+
 **Success Metrics**:
 - Awareness level (% who can articulate why change is happening)
 - Message consistency (alignment of understanding across groups)
@@ -129,6 +115,10 @@ The OCM Strategic Framework provides a structured approach to managing the peopl
 | **Collaborate** | Partnership in design | Co-creation sessions, pilots |
 | **Empower** | Decision-making authority | Delegated ownership |
 
+![Figure 3.4: CSF 3 - Stakeholder Engagement Levels](../images/Figure_03_04.jpeg)
+
+*Figure 3.4: Stakeholder engagement exists on a spectrum from one-way information (Inform) to delegated decision-making (Empower). Higher levels of engagement increase stakeholder influence and commitment but require more time and resources.*
+
 **Success Metrics**:
 - Stakeholder coverage (% engaged by group)
 - Engagement quality score (stakeholder satisfaction with involvement)
@@ -154,6 +144,10 @@ The OCM Strategic Framework provides a structured approach to managing the peopl
 4. **Right Channel**: Medium suited to message and audience
 5. **Right Sender**: Credible source for that message
 6. **Two-Way**: Mechanisms for feedback and questions
+
+![Figure 3.5: CSF 4 - The 5 Rights of Communication](../images/Figure_03_05.jpeg)
+
+*Figure 3.5: Effective change communication applies the 5 Rights framework: deliver the Right Message to the Right Audience at the Right Time through the Right Channel from the Right Sender. All five elements must align for maximum impact.*
 
 **Communication Matrix**:
 
@@ -198,6 +192,10 @@ The OCM Strategic Framework provides a structured approach to managing the peopl
 | 2. Learning | Knowledge/skill acquisition | Tests, demonstrations |
 | 3. Behavior | Application on the job | Observation, metrics |
 | 4. Results | Business impact | KPIs, ROI |
+
+![Figure 3.7: Kirkpatrick Training Evaluation Model](../images/Figure_03_07.jpeg)
+
+*Figure 3.7: The Kirkpatrick Four-Level Model evaluates training effectiveness from immediate reaction through learning, behavior change, and ultimately business results. Higher levels require longer timeframes to measure but provide greater insight into training impact.*
 
 **Success Metrics**:
 - Training completion rate
@@ -314,30 +312,7 @@ Executive Sponsor (1)
 
 ## CSF Interdependencies
 
-The 8 CSFs work together as a system:
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                     CSF INTERDEPENDENCIES                        │
-│                                                                  │
-│  CSF 1 (Sponsorship) ──────> Enables all other CSFs             │
-│                                                                  │
-│  CSF 2 (Vision) ──────────> Foundation for CSF 4 (Communication)│
-│                                                                  │
-│  CSF 3 (Engagement) ──────> Feeds into CSF 7 (Resistance)       │
-│                                                                  │
-│  CSF 4 (Communication) ───> Drives CSF 5 (Training) awareness   │
-│                                                                  │
-│  CSF 5 (Training) ────────> Builds CSF 6 (Change Agents)        │
-│                                                                  │
-│  CSF 6 (Agents) ──────────> Support CSF 7 (Resistance)          │
-│                                                                  │
-│  CSF 7 (Resistance) ──────> Inputs to CSF 8 (Measurement)       │
-│                                                                  │
-│  CSF 8 (Measurement) ─────> Feedback to all CSFs                │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+The 8 CSFs work together as a system. Note: Figure 3.6 is not available.
 
 ---
 

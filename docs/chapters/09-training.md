@@ -75,6 +75,10 @@ Different roles require different training. Design role-based curricula that add
 | Support Staff | System administration, issue resolution | Technical deep-dive, lab exercises |
 | Executives | Dashboard review, strategic insights | Brief overview, key metrics focus |
 
+![Figure 9.1: Role-Based Training Strategy Map](../images/Figure_09_01.jpeg)
+
+*Figure 9.1: Role-based training recognizes that different roles have different learning needs, time constraints, and proficiency requirements. End users need core transactions (1-2 hours), power users need advanced functions (4+ hours), managers need reporting focus (2 hours), support staff need deep technical knowledge (full day), and executives need strategic overview (30 minutes).*
+
 ---
 
 ## Adult Learning Principles
@@ -105,6 +109,10 @@ Effective training applies adult learning principles (andragogy) that recognize 
 | Problem-Centered | Use realistic scenarios based on actual job tasks; include troubleshooting |
 | Immediate Application | Schedule training close to go-live; provide job aids for immediate reference |
 | Respect | Keep training focused and efficient; acknowledge competing priorities |
+
+![Figure 9.2: Adult Learning Principles Applied](../images/Figure_09_02.jpeg)
+
+*Figure 9.2: Adult learning principles guide effective training design. Apply self-direction by offering choices, leverage experience by building on existing knowledge, ensure relevance by explaining job impact, use problem-centered scenarios, schedule for immediate application, and show respect by valuing time and intelligence. Avoid anti-patterns like forced pacing or condescending content.*
 
 ---
 
@@ -196,6 +204,10 @@ Most change initiatives benefit from blended learning that combines methods:
 - Job aids and quick reference
 - Access to help resources
 
+![Figure 9.3: Blended Learning Journey Map](../images/Figure_09_03.jpeg)
+
+*Figure 9.3: Blended learning combines pre-work (e-learning basics, 1-2 hours), classroom sessions (hands-on practice with guidance, half-day), and post-training support (job aids, coaching, practice time, 2-4 weeks). This progression builds knowledge through classroom experience and develops ability through supported practice, aligning with the ADKAR model.*
+
 ### Hands-On Practice
 
 Effective skill-building requires practice, not just information transfer. Design practice activities that:
@@ -271,6 +283,10 @@ The Kirkpatrick model provides a framework for evaluating training at four level
 - Measured by business metrics, ROI analysis
 - Verifies training delivered intended value
 
+![Figure 9.4: Kirkpatrick Four Levels Visual Framework](../images/Figure_09_04.jpeg)
+
+*Figure 9.4: The Kirkpatrick Four-Level Model evaluates training from immediate reaction through learning acquisition, behavior change, and ultimately business results. Each level requires different measurement methods and timeframes: Level 1 (immediate feedback), Level 2 (end of training assessments), Level 3 (30-90 days observation), Level 4 (3-6 months business metrics). Higher levels provide greater value but require longer timeframes.*
+
 ### Measurement Methods
 
 | Level | Measurement Methods | Timing |
@@ -320,6 +336,10 @@ Some learners will struggle with new skills. Support options include:
 - Extended access to training environments
 - Modified job assignments during transition
 - Patience and encouragement
+
+![Figure 9.5: Training Support Ecosystem](../images/Figure_09_05.jpeg)
+
+*Figure 9.5: Effective training requires a support ecosystem spanning pre-training preparation, during-training guidance, and post-training reinforcement. Support includes human resources (managers, trainers, coaches, peers, super users), tools (help desk, systems), and resources (job aids, practice environments). For struggling learners, activate additional support paths including one-on-one coaching and extended practice time.*
 
 ---
 

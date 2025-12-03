@@ -29,6 +29,10 @@ Reinforcement addresses a fundamental challenge: change is hard, and old habits 
 
 ### Why Changes Regress
 
+![Figure 13.1: The Reinforcement Challenge](../images/Figure_13_01.jpeg)
+
+*Figure 13.1: The Reinforcement Challenge - Without active reinforcement, 70% of changes experience significant regression within six months. Reinforcement activities sustain adoption and protect benefits realization.*
+
 **Habit Reversion**: Old behaviors are automatic; new behaviors require conscious effort
 
 **Environmental Triggers**: Physical and social environments cue old behaviors
@@ -98,9 +102,17 @@ Reinforcement includes accountability for non-adoption:
 
 **Escalation Path**: Process for addressing persistent non-adoption
 
+![Figure 13.2: Reinforcement Mechanisms Toolkit](../images/Figure_13_02.jpeg)
+
+*Figure 13.2: Reinforcement Mechanisms Toolkit - Effective reinforcement combines positive recognition, structural integration, and appropriate accountability. Use multiple mechanisms in combination for maximum sustainability.*
+
 ---
 
 ## Embedding Change in Systems
+
+![Figure 13.3: Embedding Change in Organizational Systems](../images/Figure_13_03.jpeg)
+
+*Figure 13.3: Embedding Change in Organizational Systems - Sustainable change requires integration across multiple organizational layers. Each layer builds on the previous, with cultural integration representing deepest embedding.*
 
 Sustainable change becomes embedded in organizational systems so that it persists without ongoing project support.
 
@@ -193,6 +205,10 @@ When regression is detected, respond promptly:
 ## Transition to Business-as-Usual
 
 ### Planning the Transition
+
+![Figure 13.4: Transition to Business-as-Usual Process](../images/Figure_13_04.jpeg)
+
+*Figure 13.4: Transition to Business-as-Usual Process - Planned transition ensures smooth handoff from project team to business operations with clear criteria, coordinated activities, and validated readiness at each stage.*
 
 The goal of any change initiative is to transition from project mode to business-as-usual where change is simply "how we work."
 

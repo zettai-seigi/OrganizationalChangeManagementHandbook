@@ -45,6 +45,10 @@ Effective adoption measurement distinguishes between activity and outcome. Activ
 
 The handbook's framework identifies six KPIs for measuring OCM effectiveness:
 
+![Figure 12.1: OCM Six Key Performance Indicators Dashboard](../images/Figure_12_01.jpeg)
+
+*Figure 12.1: OCM Six Key Performance Indicators Dashboard - The six KPIs provide a comprehensive view of adoption progress from initial awareness through sustained adoption. Each metric has specific targets based on research and best practices.*
+
 ### KPI 1: Awareness Level
 
 **Definition**: Percentage of stakeholders who are aware of the change and understand why it is happening
@@ -154,6 +158,10 @@ The handbook's framework identifies six KPIs for measuring OCM effectiveness:
 
 ## Building a Measurement Framework
 
+![Figure 12.2: Building a Measurement Framework](../images/Figure_12_02.jpeg)
+
+*Figure 12.2: Building a Measurement Framework - Effective measurement requires systematic planning from defining metrics through analysis and action. The feedback loop ensures continuous refinement based on learning.*
+
 ### Define What to Measure
 
 Start by clarifying what adoption looks like for your specific change:
@@ -210,6 +218,10 @@ Different metrics require different measurement frequencies:
 ---
 
 ## Data Collection Methods
+
+![Figure 12.3: Data Collection Methods Comparison](../images/Figure_12_03.jpeg)
+
+*Figure 12.3: Data Collection Methods Comparison - Multiple data sources provide a complete picture of adoption. Each method has strengths and limitations; effective measurement combines multiple approaches.*
 
 ### System Data and Analytics
 
@@ -278,6 +290,10 @@ Managers and change agents provide ground-level intelligence:
 ---
 
 ## Analyzing Adoption Data
+
+![Figure 12.4: Adoption Data Analysis Process](../images/Figure_12_04.jpeg)
+
+*Figure 12.4: Adoption Data Analysis Process - Effective analysis transforms data into action through pattern identification, comparison to targets, root cause analysis, and intervention design.*
 
 ### Identifying Patterns
 
@@ -353,6 +369,10 @@ Intervene when:
 ## Reporting on Adoption
 
 ### Dashboard Design
+
+![Figure 12.5: Multi-Level Dashboard Hierarchy](../images/Figure_12_05.jpeg)
+
+*Figure 12.5: Multi-Level Dashboard Hierarchy - Different stakeholders need different views of adoption data. Executive dashboards prioritize high-level status and decisions; project dashboards provide operational detail.*
 
 Create dashboards that communicate adoption status clearly:
 
