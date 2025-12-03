@@ -27,6 +27,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
+exclude:
+  - "images/*.md"
+  - "images/README.md"
+  - "images/VISUAL-SPECIFICATIONS-INDEX.md"
+  - "images/part1-foundations-visuals.md"
+  - "images/part2-assessment-visuals.md"
+  - "images/part3-execution-visuals.md"
+  - "images/part4-adoption-sustainability-visuals.md"
+  - "images/part5-governance-controls-visuals.md"
+  - "images/part6-implementation-guide-visuals.md"
+
 kramdown:
   syntax_highlighter_opts:
     block:
