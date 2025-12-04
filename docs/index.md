@@ -15,6 +15,34 @@ A Comprehensive Guide to ITIL/ITSM Organizational Change Management Best Practic
 
 ---
 
+## Implementation Toolkit
+
+Download the comprehensive Excel workbook with ready-to-use templates for OCM implementation:
+
+[Download OCM Implementation Toolkit (Excel)](/OrganizationalChangeManagementHandbook/assets/downloads/OCM_Implementation_Guidance.xlsx){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
+
+**Includes 13 worksheets:**
+
+| Worksheet | Description |
+|-----------|-------------|
+| **Dashboard** | Auto-populated metrics from all sheets |
+| **Implementation Roadmap** | 25 activities across 5 phases |
+| **ADKAR Assessment** | Stakeholder readiness scoring with gap analysis |
+| **Stakeholder Analysis** | Auto-calculated engagement strategy |
+| **Communication Plan** | Message planning and tracking |
+| **Training Plan** | Course scheduling with completion tracking |
+| **Sponsorship Tracker** | Leadership engagement monitoring |
+| **Resistance Log** | Issue identification and mitigation |
+| **KPI Dashboard** | 6 key metrics with targets |
+| **Maturity Assessment** | 5-level capability evaluation |
+| **CSF Checklist** | 8 Critical Success Factors scoring |
+| **Risk Register** | Auto-calculated risk scores |
+| **Change Impact** | Impact assessment by group |
+
+All worksheets include frozen instruction panels, dropdown validations, and auto-calculations.
+
+---
+
 ## About This Handbook
 
 The Organizational Change Management Handbook is a comprehensive guide designed for IT professionals, service management practitioners, and organizations implementing or optimizing ITIL/ITSM Organizational Change Management processes.
