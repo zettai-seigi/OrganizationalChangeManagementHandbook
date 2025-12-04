@@ -141,6 +141,10 @@ These best practices emerge from research and practical experience across thousa
 - New behaviors become normal practice
 - Benefits continue to be realized
 
+![Figure 18.1: Seven Best Practices for Change Success](/OrganizationalChangeManagementHandbook/images/Figure_18_01.jpeg)
+
+*Figure 18.1 - Seven Best Practices for Change Success: These proven practices significantly increase change success probability. Organizations applying all seven achieve 85%+ success rates compared to 35% for those applying few or none.*
+
 ---
 
 ## Common Pitfalls to Avoid
@@ -242,6 +246,10 @@ These pitfalls consistently undermine change success. Awareness enables avoidanc
 - Acknowledge past problems openly
 - Demonstrate how this change will be different
 - Follow through on commitments to rebuild trust
+
+![Figure 18.2: Eight Common OCM Pitfalls to Avoid](/OrganizationalChangeManagementHandbook/images/Figure_18_02.jpeg)
+
+*Figure 18.2 - Eight Common OCM Pitfalls to Avoid: These pitfalls consistently undermine change success. Most stem from treating OCM as afterthought or cutting corners under pressure. All are avoidable with awareness and planning.*
 
 ---
 

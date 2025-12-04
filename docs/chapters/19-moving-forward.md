@@ -79,6 +79,10 @@ Continuous learning is essential for OCM practitioners:
 - Participate in communities of practice
 - Find mentors and be a mentor
 
+![Figure 19.2: Personal OCM Development Journey](/OrganizationalChangeManagementHandbook/images/Figure_19_02.jpeg)
+
+*Figure 19.2 - Personal OCM Development Journey: OCM mastery develops through five stages over 10-15+ years. Progress requires continuous learning, diverse experiences, and contribution to others. Your journey is unique; this map provides typical progression.*
+
 ### Organizational Development
 
 Build organizational OCM capability systematically:
@@ -116,6 +120,10 @@ Apply continuous improvement principles to OCM practice:
 **Check**: Evaluate results against expectations
 
 **Act**: Standardize what works; adjust what doesn't
+
+![Figure 19.1: OCM Continuous Improvement Framework](/OrganizationalChangeManagementHandbook/images/Figure_19_01.jpeg)
+
+*Figure 19.1 - OCM Continuous Improvement Framework: Systematic improvement cycle advances OCM capability through Plan-Do-Check-Act. Each cycle builds on previous learning, progressively advancing maturity from ad-hoc to optimized.*
 
 ### Sources of Improvement Insights
 

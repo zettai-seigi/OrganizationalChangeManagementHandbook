@@ -62,6 +62,14 @@ Organizations typically follow one of three approaches:
 
 **Pilot-Based**: Prove OCM value on selected projects before broader implementation. Best for organizations where OCM value must be demonstrated to gain support.
 
+![Figure 17.1: OCM Capability Implementation Roadmap](/OrganizationalChangeManagementHandbook/images/Figure_17_01.jpeg)
+
+*Figure 17.1 - OCM Capability Implementation Roadmap: Building OCM capability is a phased 18-24 month journey from foundation through optimization. Parallel activity tracks show concurrent workstreams with clear milestones and success criteria at each phase.*
+
+![Figure 17.2: Implementation Approach Selection Matrix](/OrganizationalChangeManagementHandbook/images/Figure_17_02.jpeg)
+
+*Figure 17.2 - Implementation Approach Selection Matrix: Three approaches to implementing OCM capability suit different organizational contexts. Phased Rollout is most common, balancing speed, risk, and learning. Select based on resources, readiness, and urgency.*
+
 ---
 
 ## Phase 1: Foundation (Months 1-3)
@@ -284,6 +292,10 @@ Continuously demonstrate OCM value:
 - Compare outcomes on projects with/without OCM
 - Track improvement over time as capability matures
 - Benchmark against industry standards
+
+![Figure 17.3: Building the OCM Business Case](/OrganizationalChangeManagementHandbook/images/Figure_17_03.jpeg)
+
+*Figure 17.3 - Building the OCM Business Case: Compelling business case shows cost of change failure, benefits of effective OCM, required investment, and expected ROI. Typical ROI ranges from 10:1 to 40:1, with payback in 6-9 months.*
 
 ---
 

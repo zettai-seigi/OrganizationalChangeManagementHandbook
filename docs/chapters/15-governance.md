@@ -61,6 +61,10 @@ Depending on organizational size and OCM maturity, governance may include:
 - Problem-solving collaboration
 - Practice improvement suggestions
 
+![Figure 15.1: OCM Governance Structure](/OrganizationalChangeManagementHandbook/images/Figure_15_01.jpeg)
+
+*Figure 15.1 - OCM Governance Structure: Effective OCM governance integrates with enterprise and IT governance while providing specialized oversight through dedicated bodies. Clear reporting and coordination relationships ensure alignment.*
+
 **Project-Level OCM Governance**
 - Individual project OCM oversight
 - Sponsor engagement management
@@ -161,6 +165,10 @@ Enterprise Governance
 
 *R = Responsible, A = Accountable, C = Consulted, I = Informed*
 
+![Figure 15.2: OCM RACI Matrix](/OrganizationalChangeManagementHandbook/images/Figure_15_02.jpeg)
+
+*Figure 15.2 - OCM RACI Matrix: Clear assignment of Responsible, Accountable, Consulted, and Informed roles for all major OCM activities ensures accountability and prevents gaps or overlaps in ownership.*
+
 ---
 
 ## Decision Rights
@@ -194,6 +202,10 @@ Define clear escalation paths for OCM issues:
 
 **Level 5**: Executive leadership for strategic decisions
 
+![Figure 15.3: OCM Decision Rights Framework](/OrganizationalChangeManagementHandbook/images/Figure_15_03.jpeg)
+
+*Figure 15.3 - OCM Decision Rights Framework: Clear decision authority eliminates bottlenecks and ambiguity. Operational decisions are made quickly by project teams; tactical decisions involve project sponsors; strategic decisions engage governance bodies.*
+
 ---
 
 ## Governance Processes
@@ -217,6 +229,10 @@ Process for determining OCM requirements for initiatives:
 | Stakeholder complexity | Simple | Moderate | Complex |
 | Change history | Positive | Mixed | Negative |
 | Strategic importance | Low | Medium | High |
+
+![Figure 15.4: OCM Requirements Determination Process](/OrganizationalChangeManagementHandbook/images/Figure_15_04.jpeg)
+
+*Figure 15.4 - OCM Requirements Determination Process: Systematic assessment determines appropriate OCM level and resources for each initiative. Clear criteria ensure consistent, objective decisions about OCM investment.*
 
 ### OCM Plan Review
 
@@ -280,6 +296,10 @@ Process for assessing go-live readiness:
 | Portfolio Dashboard | OCM Steering, IT Leadership | Bi-weekly |
 | Executive Summary | Executive Team | Monthly |
 | Maturity Assessment | OCM Steering | Annually |
+
+![Figure 15.5: OCM Governance Reporting Structure](/OrganizationalChangeManagementHandbook/images/Figure_15_05.jpeg)
+
+*Figure 15.5 - OCM Governance Reporting Structure: Information flows from detailed project reports to portfolio dashboards to executive summaries. Each level provides appropriate detail for its audience while maintaining end-to-end visibility.*
 
 ---
 

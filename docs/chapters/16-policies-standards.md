@@ -29,6 +29,10 @@ Policies and standards establish the rules and expectations for OCM practice. Wh
 
 **Guidelines**: Recommended practices that are not mandatory. Guidelines provide helpful direction without creating requirements.
 
+![Figure 16.1: OCM Policy Framework Structure](/OrganizationalChangeManagementHandbook/images/Figure_16_01.jpeg)
+
+*Figure 16.1 - OCM Policy Framework Structure: Policies establish mandatory requirements, Standards define quality expectations, and Guidelines provide recommended practices. Together they govern OCM practice while allowing appropriate flexibility.*
+
 ---
 
 ## OCM Policy Framework
@@ -170,6 +174,10 @@ Maintain audit-ready documentation:
 - Training completion records maintained
 - Adoption metrics archived
 
+![Figure 16.2: OCM Regulatory and Compliance Alignment](/OrganizationalChangeManagementHandbook/images/Figure_16_02.jpeg)
+
+*Figure 16.2 - OCM Regulatory and Compliance Alignment: OCM activities must comply with various regulatory and organizational requirements. This matrix identifies where compliance obligations apply and provides guidance for meeting them.*
+
 ---
 
 ## Exception Management
@@ -191,6 +199,10 @@ Not all situations fit standard policies. A clear exception process enables flex
 | Minor template deviation | Project OCM Lead |
 | Methodology modification | OCM Practice Lead |
 | Policy exception | OCM Steering Committee |
+
+![Figure 16.3: Policy Exception Management Process](/OrganizationalChangeManagementHandbook/images/Figure_16_03.jpeg)
+
+*Figure 16.3 - Policy Exception Management Process: Structured exception process balances flexibility with governance. Risk-based evaluation ensures exceptions are granted appropriately with necessary controls and documentation.*
 
 ---
 
