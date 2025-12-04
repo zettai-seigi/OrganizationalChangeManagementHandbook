@@ -19,6 +19,33 @@ After completing this chapter, you will be able to:
 
 ---
 
+## Implementation Toolkit Download
+
+To support your OCM implementation, we provide a comprehensive Excel workbook with practical templates and tools:
+
+**[Download OCM Implementation Guidance Workbook (Excel)](/OrganizationalChangeManagementHandbook/assets/downloads/OCM_Implementation_Guidance.xlsx)**
+
+The workbook includes 13 ready-to-use worksheets:
+
+| Worksheet | Purpose |
+|-----------|---------|
+| Implementation Roadmap | Phase-by-phase checklist with 25 activities |
+| ADKAR Assessment | Individual and group ADKAR scoring template |
+| Stakeholder Analysis | Power/Interest matrix and engagement planning |
+| Communication Plan | Message planning with channels and schedules |
+| Training Plan | Role-based training curriculum tracking |
+| Sponsorship Tracker | Sponsor activities and effectiveness monitoring |
+| Resistance Log | Resistance identification and mitigation |
+| KPI Dashboard | Six OCM KPIs with tracking tables |
+| Maturity Assessment | Five-level maturity scoring across 8 dimensions |
+| CSF Checklist | Eight Critical Success Factors evaluation |
+| Risk Register | OCM-specific risk identification and mitigation |
+| Change Impact | Impact assessment by stakeholder group |
+
+All worksheets include dropdown validations, pre-formatted tables, sample data, and reference guides.
+
+---
+
 ## Implementing OCM Capability
 
 Implementing OCM capability is itself a change initiative that requires change management. Organizations cannot simply declare that OCM will be practiced—they must build the methodology, skills, tools, and culture that enable effective OCM over time.
